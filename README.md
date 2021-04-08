@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # chat-example
 
 This is the source code for a very simple chat example used for
@@ -14,6 +13,3 @@ You can also spin up a free Heroku dyno to test it out:
 Or run it on [Repl.it](https://repl.it/):
 
 [![Run on Repl.it](https://repl.it/badge/github/socketio/chat-example)](https://repl.it/github/socketio/chat-example)
-=======
-# chat
->>>>>>> 5fc509baacab9e314b0529bc4dd0d7a54e3ba98c
